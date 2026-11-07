@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.elnemer.islamic1000</groupId>
+  <artifactId>mirath-java-akdariyyah-mushtarakah</artifactId>
+  <version>1.0.0</version>
+  <name>Special Fara'id Cases Solver (Al-Akdariyyah, Al-Mushtarakah, Al-Umariyyatan)</name>
+</project>
